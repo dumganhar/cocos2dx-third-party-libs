@@ -1,3 +1,6 @@
 [submodule "libpng"]
 	path = libpng
 url=https://github.com/dumganhar/libpng.git
+[submodule "libwebp"]
+	path = libwebp
+	url = http://git.chromium.org/webm/libwebp.git
